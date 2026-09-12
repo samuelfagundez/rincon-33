@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 2,
+  "source": {
+    "shortUrl": "https://maps.app.goo.gl/xijMcdHjmCKQhRkeA",
+    "expandedUrl": "https://www.google.com/maps/place/Rinc%C3%B3n+33/@39.4751101,-0.3766663,20z/data=!3m1!5s0xd604f4d6772f451:0xd162e5ec4065fc!4m6!3m5!1s0xd604f4d7cf4a355:0xccc71c18a6cbd08a!8m2!3d39.4753002!4d-0.3768577!16s%2Fg%2F11bxfzp920?entry=tts&g_ep=EgoyMDI2MDkwOS4wIPu8ASoASAFQAw%3D%3D&skid=a5d726dd-5b52-4fb4-ba94-08862ab66dac&ucbcb=1",
+    "googleMapsUri": "https://maps.google.com/?cid=14755793596305887370&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "placeId": "ChIJVaP0fE1PYA0RitDLphgcx8w",
+    "featureId": "0xd604f4d7cf4a355:0xccc71c18a6cbd08a",
+    "gmapsPlaceRef": "/g/11bxfzp920",
+    "provider": "google-places-api-v1",
+    "fetchedAt": "2026-09-12T18:05:35.605Z"
+  },
+  "name": "Rincón 33",
+  "rating": {
+    "score": 4.6,
+    "count": 2659
+  },
+  "phone": "+34 667 71 78 39",
+  "phoneNational": "667 71 78 39",
+  "hours": {
+    "weekly": [
+      "lunes: 13:30–15:00, 20:30–23:00",
+      "martes: Cerrado",
+      "miércoles: Cerrado",
+      "jueves: 13:30–15:00, 20:30–23:00",
+      "viernes: 13:30–15:00, 20:30–23:00",
+      "sábado: 13:30–15:00, 20:30–23:00",
+      "domingo: 13:30–15:00, 20:30–23:00"
+    ],
+    "periods": [
+      {
+        "open": {
+          "day": 0,
+          "hour": 13,
+          "minute": 30
+        },
+        "close": {
+          "day": 0,
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 0,
+          "hour": 20,
+          "minute": 30
+        },
+        "close": {
+          "day": 0,
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 13,
+          "minute": 30
+        },
+        "close": {
+          "day": 1,
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 1,
+          "hour": 20,
+          "minute": 30
+        },
+        "close": {
+          "day": 1,
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 13,
+          "minute": 30
+        },
+        "close": {
+          "day": 4,
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 4,
+          "hour": 20,
+          "minute": 30
+        },
+        "close": {
+          "day": 4,
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 13,
+          "minute": 30
+        },
+        "close": {
+          "day": 5,
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 5,
+          "hour": 20,
+          "minute": 30
+        },
+        "close": {
+          "day": 5,
+          "hour": 23,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 13,
+          "minute": 30
+        },
+        "close": {
+          "day": 6,
+          "hour": 15,
+          "minute": 0
+        }
+      },
+      {
+        "open": {
+          "day": 6,
+          "hour": 20,
+          "minute": 30
+        },
+        "close": {
+          "day": 6,
+          "hour": 23,
+          "minute": 0
+        }
+      }
+    ],
+    "secondary": []
+  },
+  "socials": [
+    {
+      "network": "Facebook",
+      "url": "https://www.facebook.com/restaurante.rincon33"
+    }
+  ],
+  "pricePerPerson": "30 € – 40 €",
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "links": {
+    "website": "https://www.facebook.com/restaurante.rincon33",
+    "menu": null,
+    "reservations": "https://www.facebook.com/restaurante.rincon33",
+    "reservable": true,
+    "googleMaps": "https://maps.google.com/?cid=14755793596305887370&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "directions": "https://www.google.com/maps/dir//''/data=!4m7!4m6!1m1!4e2!1m2!1m1!1s0xd604f4d7cf4a355:0xccc71c18a6cbd08a!3e0?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "reviews": "https://www.google.com/maps/place//data=!4m4!3m3!1s0xd604f4d7cf4a355:0xccc71c18a6cbd08a!9m1!1b1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "photos": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd604f4d7cf4a355:0xccc71c18a6cbd08a!10e5?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
+    "writeReview": "https://www.google.com/maps/place//data=!4m3!3m2!1s0xd604f4d7cf4a355:0xccc71c18a6cbd08a!12e1?g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA"
+  },
+  "address": {
+    "formatted": "C/ de la Corretgeria, 33, Ciutat Vella, 46001 València, Valencia",
+    "short": "C/ de la Corretgeria, 33, València",
+    "components": {
+      "number": "33",
+      "street": "Carrer de la Corretgeria",
+      "city": "València",
+      "province": "Valencia",
+      "region": "Comunidad Valenciana",
+      "country": "España",
+      "postalCode": "46001"
+    }
+  },
+  "location": {
+    "lat": 39.4753002,
+    "lng": -0.37685769999999996
+  },
+  "primaryType": "restaurant",
+  "primaryTypeLabel": "Restaurante",
+  "types": [
+    "restaurant",
+    "mediterranean_restaurant",
+    "european_restaurant",
+    "spanish_restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "businessStatus": "OPERATIONAL",
+  "editorialSummary": "Paellas, fajitas y hamburguesas en un restaurante informal con originales motivos decorativos y terraza.",
+  "utcOffsetMinutes": 120,
+  "features": [
+    "Admite reservas",
+    "Comer en el local",
+    "Entrega a domicilio",
+    "Recogida en la puerta",
+    "Terraza / asientos fuera",
+    "Apto para niños",
+    "Apto para grupos",
+    "Aseos",
+    "Comidas",
+    "Cenas",
+    "Cafés",
+    "Postres",
+    "Opciones vegetarianas",
+    "Cerveza",
+    "Vino",
+    "Cócteles"
+  ],
+  "accessibility": [
+    "Asientos accesibles"
+  ],
+  "paymentOptions": {
+    "acceptsCreditCards": true,
+    "acceptsDebitCards": true,
+    "acceptsCashOnly": false,
+    "acceptsNfc": true
+  },
+  "parkingOptions": {
+    "paidGarageParking": true
+  },
+  "photos": [
+    {
+      "file": "fotos/01.jpg",
+      "widthPx": 960,
+      "heightPx": 720,
+      "attribution": "Rincón 33",
+      "attributionUri": "https://maps.google.com/maps/contrib/106690756286173511971"
+    },
+    {
+      "file": "fotos/02.jpg",
+      "widthPx": 716,
+      "heightPx": 960,
+      "attribution": "Rincón 33",
+      "attributionUri": "https://maps.google.com/maps/contrib/106690756286173511971"
+    },
+    {
+      "file": "fotos/03.jpg",
+      "widthPx": 2048,
+      "heightPx": 1536,
+      "attribution": "Rosana Urtasun",
+      "attributionUri": "https://maps.google.com/maps/contrib/108016698198024170507"
+    },
+    {
+      "file": "fotos/04.jpg",
+      "widthPx": 4800,
+      "heightPx": 3600,
+      "attribution": "Filip Machát",
+      "attributionUri": "https://maps.google.com/maps/contrib/100656723962481979114"
+    },
+    {
+      "file": "fotos/05.jpg",
+      "widthPx": 4000,
+      "heightPx": 3000,
+      "attribution": "Nicolaz David Perez Mesa",
+      "attributionUri": "https://maps.google.com/maps/contrib/105741273441959685019"
+    },
+    {
+      "file": "fotos/06.jpg",
+      "widthPx": 4080,
+      "heightPx": 3060,
+      "attribution": "Carola Speicher",
+      "attributionUri": "https://maps.google.com/maps/contrib/114094469162652968637"
+    },
+    {
+      "file": "fotos/07.jpg",
+      "widthPx": 3072,
+      "heightPx": 4096,
+      "attribution": "Manuela M.",
+      "attributionUri": "https://maps.google.com/maps/contrib/103254093325504143832"
+    },
+    {
+      "file": "fotos/08.jpg",
+      "widthPx": 3600,
+      "heightPx": 4800,
+      "attribution": "GO! GO! TRAVEL",
+      "attributionUri": "https://maps.google.com/maps/contrib/105548796012806910453"
+    },
+    {
+      "file": "fotos/09.jpg",
+      "widthPx": 3024,
+      "heightPx": 4032,
+      "attribution": "Paolo Rambotti",
+      "attributionUri": "https://maps.google.com/maps/contrib/101870702848159877459"
+    },
+    {
+      "file": "fotos/10.jpg",
+      "widthPx": 4032,
+      "heightPx": 3024,
+      "attribution": "Karishma Sheffield",
+      "attributionUri": "https://maps.google.com/maps/contrib/101995003701614014609"
+    }
+  ],
+  "reviews": [
+    {
+      "author": "Carlos Osuna Cabezudo",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjV6qN4447_B09Tt_p28cIDtqecVUGfZrGw8vPxQLmYGgRxgiz0J=s128-c0x00000000-cc-rp-mo-ba2",
+      "authorUri": "https://www.google.com/maps/contrib/101337453758091520785/reviews",
+      "rating": 5,
+      "text": "Paella exquisita. Pedimos la paella del señoret y estaba espectacular, con el arroz en su punto y un sabor muy equilibrado. La ensalada César también es muy recomendable, fresca y bien aliñada.\n\nLa camarera nos atendió con un trato cercano y muy profesional, cuidando cada detalle durante toda la comida. Sin duda, una experiencia para repetir.",
+      "language": "es",
+      "relativeTime": "Hace 6 meses",
+      "publishTime": "2026-02-22T14:28:42.708075759Z"
+    },
+    {
+      "author": "Lorena Martinez",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjVKS0bUm9s9-hQtWORewZ3JZljHMNvItvKiVeX0ewaz_NbLj_o4=s128-c0x00000000-cc-rp-mo-ba6",
+      "authorUri": "https://www.google.com/maps/contrib/105473430629140137952/reviews",
+      "rating": 5,
+      "text": "Fabulosa paella! Pedimos la de tinta de calamar (arroz negro) estuvo muy rico! El agua de Valencia también buena! El servicio fue bueno, las personas fueron muy amables.",
+      "language": "es",
+      "relativeTime": "Hace 10 meses",
+      "publishTime": "2025-10-27T16:37:01.873181858Z"
+    },
+    {
+      "author": "hernan jose aguilar ostos",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjWjMaGN9PSfndH8zJMph5IrheZgsmfqiSftAZQkdvdC9d_nTvhp=s128-c0x00000000-cc-rp-mo-ba6",
+      "authorUri": "https://www.google.com/maps/contrib/100409238335441627178/reviews",
+      "rating": 5,
+      "text": "No tiene pega...comida, servicio, excelente, los precios, ajustados a su calidad. Altamente recomendable. Tendría que volver por el pato. Si quieren quedar bien, en alguna ocasión especial, ese es el sitio",
+      "language": "es",
+      "relativeTime": "Hace 2 meses",
+      "publishTime": "2026-06-30T10:04:59.644546459Z"
+    },
+    {
+      "author": "Sergio",
+      "authorPhoto": "https://lh3.googleusercontent.com/a/ACg8ocK4KbPTq-s_d_-9qr1j6BLgXmgirGkctxuR3PDycqDbjHJQoZM=s128-c0x00000000-cc-rp-mo-ba4",
+      "authorUri": "https://www.google.com/maps/contrib/117587167725336550430/reviews",
+      "rating": 5,
+      "text": "Espectacular. Nos ha encantado y nos han tratado fenomenal, sin reserva. La comida excelente, de hecho, aun no ha llegado el entrecotte y ya he dejado la opinión, de lo buenas que estaban las croquetas y el tataki de atún!",
+      "language": "es",
+      "relativeTime": "Hace 6 meses",
+      "publishTime": "2026-02-28T20:48:02.235495078Z"
+    },
+    {
+      "author": "Yaiza",
+      "authorPhoto": "https://lh3.googleusercontent.com/a-/ALV-UjVrC5X6JDqbkpRlYV7RJv7c0UdM_3F3NaKEBTMiAp7oZHFe0I52Sw=s128-c0x00000000-cc-rp-mo-ba5",
+      "authorUri": "https://www.google.com/maps/contrib/105078480810011055401/reviews",
+      "rating": 5,
+      "text": "La comida buenísima. El local encantador, es pequeño pero lo tienen muy bien preparado para que estés cómodo.\nLa dueña es increíble, nuestra mesa estaba al lado de la barra y pudimos ver el buen trato que tenía con sus empleados, además de como tenía todo controlado y no se le escapaba ningún detalle.\nLa paella muy recomendable, sabor bueno y muy cargada de cosas.",
+      "language": "es",
+      "relativeTime": "Hace 2 años",
+      "publishTime": "2023-10-20T11:21:59.310827Z"
+    }
+  ]
+}
