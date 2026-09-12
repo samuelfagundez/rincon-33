@@ -1,0 +1,36 @@
+@import 'tailwindcss';
+
+/* Paleta extraída de las fotografías reales del local (naranja azafrán de
+   la paella y el arroz negro, charcoal de las paelleras y el comedor,
+   verde del mojo/perejil que decora los platos) — ver punto 0.5 del
+   handoff: nunca una paleta genérica de plantilla. */
+@theme {
+  --color-cream: #faf3e4;
+  --color-cream-dark: #f0e2c4;
+  --color-ink: #24190f;
+  --color-olive: #5c6b34;
+  --color-olive-dark: #3f4a24;
+  --color-terracotta: #b6631a;
+  --color-terracotta-dark: #8c4a12;
+  --color-gold: #c99a3e;
+
+  --font-display: 'Fraunces', ui-serif, Georgia, serif;
+  --font-sans: 'Figtree', ui-sans-serif, system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: var(--color-cream);
+    color: var(--color-ink);
+    font-family: var(--font-sans);
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: var(--font-display);
+  }
+}
